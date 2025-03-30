@@ -16,3 +16,4 @@ read -s password
 echo -e "$password" | sudo passwd "$usr" --stdin
 
 
+echo " God help me"
